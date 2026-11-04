@@ -1,0 +1,13 @@
+# Upstream source/build trees are too large for this compact GitHub submission.
+kernel/
+uboot/
+rootfs/busybox-*/
+*.o
+*.cmd
+*.tmp
+*.tar
+*.tar.xz
+*.tar.bz2
+*.log.bak
+.DS_Store
+Thumbs.db
